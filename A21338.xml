@@ -1,0 +1,588 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here is the boke of mayd Emlyn that had. v. husbandes and all kockoldes she wold make theyr berdes whether they wold or no, and gyue them to were a praty hoode full of belles.</title>
+            <title>Mayde Emlyn.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1525</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21338</idno>
+            <idno type="STC">STC 7681</idno>
+            <idno type="STC">ESTC S105468</idno>
+            <idno type="EEBO-CITATION">99841196</idno>
+            <idno type="PROQUEST">99841196</idno>
+            <idno type="VID">5759</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5759)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 770:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here is the boke of mayd Emlyn that had. v. husbandes and all kockoldes she wold make theyr berdes whether they wold or no, and gyue them to were a praty hoode full of belles.</title>
+                  <title>Mayde Emlyn.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Without Newegate in saynt Pulkers parysshe by me Iohn̄ Skot, dwelly[n]ge in he olde Bayly,</publisher>
+                  <pubPlace>[Imprynted at London :</pubPlace>
+                  <date>[ca. 1525]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Printer's name and address from colophon; publication date estimated by STC.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:5759:1"/>
+            <pb facs="tcp:5759:1" rendition="simple:additions"/>
+            <p>¶ Here is the boke of mayd Emlyn that had .v. huſbandes and all koc<g ref="char:EOLhyphen"/>koldes ſhe wold make theyr berdes whether they wold or no / and gyue them to were a praty hoode full of belles.</p>
+            <p>
+               <figure>
+                  <figDesc>Maid Emlyn and one of her cuckolded husbands</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:5759:2"/>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>yll ye here of meruaylles</l>
+               <l>Drawne out of goſpelles</l>
+               <l>Of mayde Emlynne</l>
+               <l>That had huſbandes fyue</l>
+               <l>And all dyd neuer thryue</l>
+               <l>She coude ſo well ſpynne</l>
+               <l>Louynge to go gaye</l>
+               <l>And ſeldom for to praye</l>
+               <l>For ſhe was borne in Lynne</l>
+               <l>Ofte wolde ſhe ſeke</l>
+               <l>The tauernes in the weke</l>
+               <l>Tyll her wytte was thynne</l>
+               <l>Full ſwetely wolde ſhe kys</l>
+               <l>With galauntes ywys</l>
+               <l>And ſay it was no ſynne</l>
+               <l>Thus collynge in armes</l>
+               <l>Some men caught harmes</l>
+               <l>Full lytell dyd they wynne</l>
+               <l>And if her huſbande ſayd ought</l>
+               <l>Loke what ſhe ſoneſt cought</l>
+               <l>At his heed ſhe wolde it flynge</l>
+               <l>She wolde laye lorell thou</l>
+               <l>I wyll teche the I trowe</l>
+               <l>Of thy language to blynne</l>
+               <l>It is pyte that a knaue</l>
+               <l>A prety woman ſholde haue</l>
+               <l>That knoweth not golde from tynne</l>
+               <l>I trowe thou Ialouſe be</l>
+               <l>Bytwene my coſyn and me</l>
+               <l>That is called ſyr Sym</l>
+               <l>
+                  <pb facs="tcp:5759:2"/>
+Thoughe I go ofte thyder</l>
+               <l>We do nought togyder</l>
+               <l>But prycked balades ſynge</l>
+               <l>And I ſo cunnynge be</l>
+               <l>The more worſhyp is to the</l>
+               <l>Gyuynge thanke to hym</l>
+               <l>For he me fyrſte taught</l>
+               <l>So I my cunnynge caught</l>
+               <l>Whan I wente a broſſhynge</l>
+               <l>With ſuche wordes douſe</l>
+               <l>This lytell prety mouſe</l>
+               <l>The yonge luſty prymme</l>
+               <l>She coude byte and whyne</l>
+               <l>Whan ſhe fawe her tyme</l>
+               <l>And with a prety gynne</l>
+               <l>Gyue her huſbande an horne</l>
+               <l>To blowe with on the morne</l>
+               <l>Beſhrowe her whyte ſkynne</l>
+               <l>And ofte wolde ſhe ſleke</l>
+               <l>To make ſmothe her cheke</l>
+               <l>With redde roſes therin</l>
+               <l>Than wolde ſhe mete</l>
+               <l>With her lemman ſwete</l>
+               <l>And cutte with hym</l>
+               <l>Talkynge for theyr pleaſure</l>
+               <l>That cocke with the fether</l>
+               <l>Is gone an huntynge</l>
+               <l>Hymſelfe all alone</l>
+               <l>To the wode he is gone</l>
+               <l>To here the kockowe ſynge</l>
+               <l>
+                  <pb facs="tcp:5759:3"/>
+Thus with her playfere</l>
+               <l>Maketh ſhe mery chere</l>
+               <l>The huſbande knoweth nothynge</l>
+               <l>She gyueth money plente</l>
+               <l>Bycauſe newe loue is daynte</l>
+               <l>Vnto her ſwetynge</l>
+               <l>And prayeth ofte to come</l>
+               <l>To playe there as ſhyneth no ſonne</l>
+               <l>So at the nexte metynge</l>
+               <l>She gyueth her huſbande a prycke</l>
+               <l>That made hym double quycke</l>
+               <l>So good was the gretynge</l>
+               <l>Kocke called of the bone</l>
+               <l>That neuer was mayſter at home</l>
+               <l>But as an vnderlynge</l>
+               <l>His wyfe made hym ſo wyſe</l>
+               <l>That he wolde tourne a peny twyſe</l>
+               <l>And than he called it a ferthynge</l>
+               <l>Nothynge byleued he</l>
+               <l>But that he dyd with his eyes ſe</l>
+               <l>Full trewe was his meanynge</l>
+               <l>She cheryſſhed hym with brede and cheſe</l>
+               <l>That his lyfe he dyd leſe</l>
+               <l>Than made ſhe mournynge</l>
+               <l>And dranke deuoutly for his ſoule</l>
+               <l>The handbell ofte dyd ſhe colle</l>
+               <l>Full great ſorowe makynge</l>
+               <l>This ſory wydowe</l>
+               <l>But a whyle I trowe</l>
+               <l>Mournynge dyd make</l>
+               <l>
+                  <pb facs="tcp:5759:3"/>
+Whan he was gone</l>
+               <l>A yonge luſty one</l>
+               <l>She dyd than take</l>
+               <l>Longe wolde ſhe not tary</l>
+               <l>Leſt ſhe dyd myſcary</l>
+               <l>But full ofte ſpake</l>
+               <l>To haſt the weddynge</l>
+               <l>And all for beddynge</l>
+               <l>Some ſporte to make</l>
+               <l>Her herte to eaſe</l>
+               <l>And the fleſſhe to pleaſe</l>
+               <l>Sorowes to aſlake</l>
+               <l>In it out Ioyenge</l>
+               <l>That wanton playenge</l>
+               <l>For the olde huſbandes ſake</l>
+               <l>yet by your leue</l>
+               <l>A frere dyd ſhe gyue</l>
+               <l>Of her loue a flake</l>
+               <l>And ſayd in her ouen</l>
+               <l>At any maner of ſeaſon</l>
+               <l>That he ſholde bake</l>
+               <l>There is rome ynowe</l>
+               <l>For other and for you</l>
+               <l>And ſpace to ſet a cake</l>
+               <l>¶ The ſeconde huſbande Nycoll</l>
+               <l>That pore ſely ſonle</l>
+               <l>Myght not eſcape</l>
+               <l>A kockolde to dye</l>
+               <l>It was his deſtenye</l>
+               <l>As man vnfortunate</l>
+               <l>
+                  <pb facs="tcp:5759:4"/>
+His wyfe vndeuoute</l>
+               <l>Ofte wolde go aboute</l>
+               <l>And ſteppe ouer many a lake</l>
+               <l>Makynge boſt in her mode</l>
+               <l>That her huſbande can no more good</l>
+               <l>Than can an vntaught ape</l>
+               <l>Thus by her ſcole</l>
+               <l>Made hym a fole</l>
+               <l>And called hym dodypate</l>
+               <l>So from his thryfte</l>
+               <l>She dyd hym lyfte</l>
+               <l>And therof creſte the date</l>
+               <l>She made hym ſadde</l>
+               <l>And ſayd he was badde</l>
+               <l>Croked legged lyke a ſtake</l>
+               <l>She lyked not his face</l>
+               <l>And fayd he mouthed was</l>
+               <l>Mooſt lyke an hawke</l>
+               <l>This good man caſe</l>
+               <l>Was lothe to dyſpleaſe</l>
+               <l>But yet thought ſomwhat</l>
+               <l>Thynkynge in his mynde</l>
+               <l>That a man can fynde</l>
+               <l>A wyfe neuer to late</l>
+               <l>For of theyr properte</l>
+               <l>Shrewes all they be</l>
+               <l>And ſlyle can they prate</l>
+               <l>All women be ſuche</l>
+               <l>Thoughe the man here the breche</l>
+               <l>They wyll be euer checkemate</l>
+               <l>
+                  <pb facs="tcp:5759:4"/>
+Faced lyke an aungell</l>
+               <l>Tonged lyke a deuyll of hell</l>
+               <l>Great cauſers of debate</l>
+               <l>They loke full ſmothe</l>
+               <l>And be falſe of loue</l>
+               <l>Venymous as a ſnake</l>
+               <l>Deſyrynge to be prayſed</l>
+               <l>A lofte to be rayſed</l>
+               <l>As an hyghe eſtate</l>
+               <l>And theſe wanton dames</l>
+               <l>Ofte chaungeth theyr names</l>
+               <l>As An / Iane / Beſſe and Kate.</l>
+               <l>Thus thynketh he</l>
+               <l>In his mynde pryuely</l>
+               <l>And nought dare ſaye</l>
+               <l>For he that is mayſterfaſt</l>
+               <l>Full ofte is agaſt</l>
+               <l>And dare not ronne and playe</l>
+               <l>If ſhe be gladde</l>
+               <l>Than is he ſadde</l>
+               <l>And fere of a ſodayne fraye</l>
+               <l>For womans pryde</l>
+               <l>Is to laughe and chyde</l>
+               <l>Euery houre in a daye</l>
+               <l>Whan ſhe dothe loure</l>
+               <l>And begynneth to ſnowre</l>
+               <l>Pyteouſly dothe he ſaye</l>
+               <l>What do ye lacke</l>
+               <l>Ony thynge ſwete herte</l>
+               <l>That I to you gyue maye</l>
+               <l>
+                  <pb facs="tcp:5759:5"/>
+She anſwered hym</l>
+               <l>With wordes grotchynge</l>
+               <l>Wyſſhynge her ſelfe in claye</l>
+               <l>And ſayth that ſhe lackes</l>
+               <l>Many prety knackes</l>
+               <l>As bedes and gyrdels gaye</l>
+               <l>And the beſt ſporte</l>
+               <l>That ſholde me comforte</l>
+               <l>Whiche is a ſwete playe</l>
+               <l>I can it not haue</l>
+               <l>For ſo god me ſaue</l>
+               <l>Thy power is not to paye</l>
+               <l>There is nought</l>
+               <l>Nought may be cought</l>
+               <l>I can no more ſaye</l>
+               <l>Many men nowe here</l>
+               <l>Can not women chere</l>
+               <l>But maketh ofte delay</l>
+               <l>The wyfe dothe mone</l>
+               <l>It is not at home</l>
+               <l>And boroweth tyll a daye</l>
+               <l>What it is I trowe</l>
+               <l>Well ynoughe ye knowe</l>
+               <l>It is no nede to ſaye</l>
+               <l>Thus ſaye the wyues</l>
+               <l>If theyr huſbandes thryues</l>
+               <l>That they the cauſers be</l>
+               <l>They gete two wayes</l>
+               <l>Bothe with worke and playes</l>
+               <l>By theyr huſwyuery</l>
+               <l>
+                  <pb facs="tcp:5759:5"/>
+With theyr ſwete lyppes</l>
+               <l>And luſty hyppes</l>
+               <l>They worke ſo pleſauntly</l>
+               <l>Some wyll fall anone</l>
+               <l>For they be not ſtronge</l>
+               <l>They be weyke in the kne</l>
+               <l>Be they pore or be they ryche</l>
+               <l>I beſhrewe all ſuche</l>
+               <l>A men nowe ſaye ye</l>
+               <l>They thynke it is as great almes</l>
+               <l>As to ſaye the ſeuen pſalmes</l>
+               <l>And dothe it for charyte</l>
+               <l>To gete gownes and furs</l>
+               <l>Theſe nyſebeceturs</l>
+               <l>Of men ſhe weth theyr pyte</l>
+               <l>Somtyme for theyr luſt</l>
+               <l>Haue it they muſt</l>
+               <l>Or ſeke wyll they be</l>
+               <l>If it do ſtycke</l>
+               <l>And ſhe fele it quycke</l>
+               <l>Full ſlyle dothe ſhe</l>
+               <l>Begyn for to grone</l>
+               <l>And wyſſheth ſhe had lyne alone</l>
+               <l>What ayleth you than ſayth he</l>
+               <l>She ſaythe ſyr I am with chylde</l>
+               <l>It is yours by Mary mylde</l>
+               <l>And ſo he weneth it be</l>
+               <l>Whan played is the playe</l>
+               <l>Iacke the huſbande muſt paye</l>
+               <l>This dayly may ye ſe</l>
+               <l>
+                  <pb facs="tcp:5759:6"/>
+He was gladde ywys</l>
+               <l>Of that that is not his</l>
+               <l>And dothe it vp kepe</l>
+               <l>She that dothe mocke hym</l>
+               <l>A nother mannes concubyne</l>
+               <l>And his chylde eke</l>
+               <l>Lo thus dothe landes</l>
+               <l>Fall in wronge ayres handes</l>
+               <l>The cauſers may well wepe</l>
+               <l>And worſe dothe happen truely</l>
+               <l>The broder the ſyſter dothe mary</l>
+               <l>And in bedde togyther ſlepe</l>
+               <l>To ſynne ſyghtely wyll the chylde drawe</l>
+               <l>That is bekoten without lawe</l>
+               <l>Wedlocke is veray ſwete</l>
+               <l>But ones for all</l>
+               <l>The daye come ſhall</l>
+               <l>The crye ſhall be welawaye</l>
+               <l>Of all wedlocke brekers</l>
+               <l>Thus ſaythe greate prechers</l>
+               <l>Theyr dettes ſhall they truely paye</l>
+               <l>All they that dothe offende</l>
+               <l>Goo graunte them to amende</l>
+               <l>And therfore lette vs praye.</l>
+               <l>¶ But nowe of Emlyne to ſpeke</l>
+               <l>And more of her to treate</l>
+               <l>Truely for to ſaye</l>
+               <l>Whan the ſeconde huſbande was dede</l>
+               <l>The thyrde huſbande dyde ſhe wedde</l>
+               <l>In full goodly araye</l>
+               <l>
+                  <pb facs="tcp:5759:6"/>
+But as the deuyll wolde</l>
+               <l>Or the pyes were colde</l>
+               <l>Fell a ſodayne fraye</l>
+               <l>Moyſes had a newe brother</l>
+               <l>It wolde be none other</l>
+               <l>And all came thorughe playe</l>
+               <l>But mayde maydenhode myſſynge</l>
+               <l>Knoweth what longeth to kyſſynge</l>
+               <l>It is no nede to ſaye</l>
+               <l>She loued well I trowe</l>
+               <l>And gaue hym ſorowe ynowe</l>
+               <l>But ones on the daye</l>
+               <l>With hym wolde ſhe chyde</l>
+               <l>He durſt not loke aſyde</l>
+               <l>The bounde muſt euer okaye</l>
+               <l>This man was olde</l>
+               <l>And of compleccyon colde</l>
+               <l>Nothynge luſty to playe</l>
+               <l>She was full ranke</l>
+               <l>And of condycyons cranke</l>
+               <l>And redy was alwaye</l>
+               <l>In Venus toyes</l>
+               <l>Was all her Ioyes</l>
+               <l>Seldome ſayde ſhe naye</l>
+               <l>At the laſte ſhe thought</l>
+               <l>That her huſbande was nought</l>
+               <l>And purpoſed on a daye</l>
+               <l>To ſhorten his lyfe</l>
+               <l>And as a true wyfe</l>
+               <l>She wolde it not delaye</l>
+               <l>Mayde Emlyn.</l>
+               <l>
+                  <pb facs="tcp:5759:7"/>
+To fulfyll her luſt</l>
+               <l>In a well ſhe hym thruſt</l>
+               <l>Without any fraye</l>
+               <l>And made countenaunce ſad</l>
+               <l>As thoughe ſhe be ſory had</l>
+               <l>Alſo in good faye</l>
+               <l>A reed onyon wolde ſhe kepe</l>
+               <l>To make her eyes wepe</l>
+               <l>In her kerchers I ſaye</l>
+               <l>She was than ſtedfaſt and ſtronge</l>
+               <l>And kepte her a wydowe veraye longe</l>
+               <l>In faythe almooſt two dayes</l>
+               <l>Bycauſe ſhe made greate mone</l>
+               <l>She wolde not lye longe alone</l>
+               <l>For fere of ſodayne frayes</l>
+               <l>Leſte her houſbande dede</l>
+               <l>Wolde come to her bedde</l>
+               <l>Thus in her mynde ſhe ſayes.</l>
+               <l>¶ The fourthe houſbande ſhe cought</l>
+               <l>That was lyke her nexte nought</l>
+               <l>For he vſed his playes</l>
+               <l>With maydens wyues and nonnes</l>
+               <l>None amyſſe to hym commes</l>
+               <l>Lyke they be of layes</l>
+               <l>Hym ſhe lyked yll</l>
+               <l>She prayed the fende hym kyll</l>
+               <l>Bycauſe he vſed her wayes</l>
+               <l>This mannes name was harry</l>
+               <l>He coude full clene cary</l>
+               <l>He loued prety gayes</l>
+               <l>
+                  <pb facs="tcp:5759:7"/>
+So it happened at the laſt</l>
+               <l>An halfepeny halter made hym faſt</l>
+               <l>And therin he ſwayes</l>
+               <l>Than ſhe toke greate thought</l>
+               <l>As a woman that careth nought</l>
+               <l>So for his ſoule ſhe prayes</l>
+               <l>And bycauſe ſhe was ſeke</l>
+               <l>She wedded the ſame weke</l>
+               <l>For very pure pyte and wo</l>
+               <l>yet or ſhe was wedded</l>
+               <l>Chryſe had ſhe bedded</l>
+               <l>And great haſt made therto</l>
+               <l>The huſbande had ſone ynowe</l>
+               <l>But Emlyn bended her browe</l>
+               <l>And thought ſhe had not ſo</l>
+               <l>But to eaſe her louer</l>
+               <l>She toke another</l>
+               <l>That luſtely coude do</l>
+               <l>One that yonge was</l>
+               <l>That coude ofte her baſſe</l>
+               <l>Whiche ſhe had fanteſy to</l>
+               <l>He coude well awaye</l>
+               <l>With her luſty playe</l>
+               <l>And neuer wolde haue do</l>
+               <l>Bycauſe he coude clepe her</l>
+               <l>She called hym a whypper</l>
+               <l>And as they were togyder</l>
+               <l>They bothe ſwetely played</l>
+               <l>A ſergeaunt them afrayed</l>
+               <l>And ſayd they were full queuer</l>
+               <l>
+                  <pb facs="tcp:5759:8"/>
+They were than full wo</l>
+               <l>The frere wolde ben a go</l>
+               <l>He curſed that he came thyder</l>
+               <l>Whether they were leue or lothe</l>
+               <l>He ſet them in the ſtockes bothe</l>
+               <l>He wolde none dyſceyuer</l>
+               <l>In myddes of the market</l>
+               <l>Full well was ſet</l>
+               <l>In full fayre wether</l>
+               <l>For it dyd hayle and thunder</l>
+               <l>On them many men dyd wonder</l>
+               <l>But Emlyne laughed euer</l>
+               <l>She thought it but a Iape</l>
+               <l>To ſe men at her gape</l>
+               <l>Therof ſhe ſhamed neuer</l>
+               <l>And ſayd for her ſportynge</l>
+               <l>It is but for Iapynge</l>
+               <l>That we be brought hyder</l>
+               <l>It is nother treaſon nor felony</l>
+               <l>But a knacke of company</l>
+               <l>And dye had I leuer</l>
+               <l>Than it forſake</l>
+               <l>For I wyll mery make</l>
+               <l>Whyle youthe hathe fayre wether</l>
+               <l>Whan her huſbande it knewe</l>
+               <l>Sore dyd he it rewe</l>
+               <l>And was ſo heuy and wo</l>
+               <l>He toke a ſurfet with a cup</l>
+               <l>That made hym tourne his heles vp</l>
+               <l>And than was he a go</l>
+               <l>
+                  <pb facs="tcp:5759:8" rendition="simple:additions"/>
+And whan ſhe was at large</l>
+               <l>Care ſhe dyde dyſcharge</l>
+               <l>And in her mynde thought tho</l>
+               <l>Nowe wyll I haue my luſte</l>
+               <l>With all them that wyll Iuſte</l>
+               <l>In ſpyte of them that ſaythe ſo</l>
+               <l>And bycauſe ſhe loued rydynge</l>
+               <l>At the ſtewes was her abydynge</l>
+               <l>Without wordes mo</l>
+               <l>And all that wolde entre</l>
+               <l>She durſt on them ventre</l>
+               <l>Veray gentyll ſhe was lo</l>
+               <l>And longe or ſhe were dede</l>
+               <l>She wente to begge her brede</l>
+               <l>Suche fortune had ſhe tho</l>
+               <l>God dyd bete her ſurely</l>
+               <l>With the rodde of pouerte</l>
+               <l>Or ſhe dyde hens go</l>
+               <l>Than ſhe dyed as ye ſhall</l>
+               <l>But what of her dyde befall</l>
+               <l>Naye there do I ho</l>
+               <l>But they that rede this erly or late</l>
+               <l>I praye Ieſu theyr ſoules take</l>
+               <l>Amen ſaye ye alſo.</l>
+            </lg>
+            <trailer>¶ Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprynted at London without Newegate in ſaynt Pulkers paryſſhe by me Iohn<g ref="char:cmbAbbrStroke">̄</g> Skot / dwellyge in y<hi rend="sup">e</hi> olde Bayly.</p>
+            <p>
+               <pb facs="tcp:5759:9"/>
+               <figure>
+                  <head>IOHN : SCOTT.</head>
+                  <figDesc>printer's device of John Skot (1521-37) a shield (with the monogram of John Skot) surmounted by a helmet, which is suspended from a tree and supported by two mythical beasts.</figDesc>
+               </figure>
+               <figure>
+                  <head>I S</head>
+                  <figDesc>border (foot) piece with initials of John Skot</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:5759:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
